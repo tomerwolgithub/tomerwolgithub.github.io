@@ -26,6 +26,22 @@ Venue.
 <button class="button button2">Blue</button>
 <button class="button button3">Red</button>
 <button class="button button4">Gray</button>
+<br>
+**Paper name.**   
+Authors.   
+Venue.   
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+<button class="button button3">Red</button>
+<button class="button button4">Gray</button>
+<br>
+**Paper name.**   
+Authors.   
+Venue.   
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+<button class="button button3">Red</button>
+<button class="button button4">Gray</button>
 <hr>
 
 
