@@ -18,7 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <button class="button button3">Red</button>
 <button class="button button4">Gray</button>
 
-<br>
+<br></br>
 **Paper name.**   
 Authors.   
 Venue.   
