@@ -5,7 +5,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #FCE77D;
+  background-color: #faf1c3;
 }
 
 a{
@@ -16,3 +16,5 @@ a{
 .gh{color:#000000}
 .bp{color:#000000}
 .highlight{background-color:#F3F6FA}
+
+h1,h2,h3,h4,h5,h6{color:#F96167;margin:0 0 20px}
