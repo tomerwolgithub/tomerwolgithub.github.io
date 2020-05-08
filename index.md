@@ -12,12 +12,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+<hr>
+
 # Publications
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-
-<br>
 
 **[Obtaining Faithful Interpretations from Compositional Neural Networks.](https://arxiv.org/abs/2005.00724)**   
 Sanjay Subramanian\*, Ben Bogin\*, Nitish Gupta\*, **Tomer Wolfson**, Sameer Singh, Jonathan Berant and Matt Gardner.   
@@ -39,7 +36,10 @@ Jonathan Berant, Daniel Deutch, Amir Globerson, Tova Milo and **Tomer Wolfson\**
 IEEE 35th International Conference on Data Engineering (ICDE) 2019, pages 1570-1573.   
 [<button class="button button1">Paper</button>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731342&tag=1)
 [<button class="button button5">Technical Report</button>](https://arxiv.org/abs/1808.04614)
+
 <hr>
+
+# Teaching
 
 
 ## Header 2
