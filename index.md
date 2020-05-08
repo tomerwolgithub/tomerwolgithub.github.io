@@ -24,26 +24,21 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 **Paper name.**   
 Authors.   
 Venue.   
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-<button class="button button3">Red</button>
-<button class="button button4">Gray</button>
+<button class="button button1">Paper</button>
+<button class="button button2">Code</button>
 <br><br>
 **Paper name.**   
 Authors.   
 Venue.   
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-<button class="button button3">Red</button>
-<button class="button button4">Gray</button>
+<button class="button button1">Paper</button>
+<button class="button button2">Code</button>
+<button class="button button3">Blogpost</button>
+<button class="button button4">Website</button>
 <br><br>
 **Paper name.**   
 Authors.   
 Venue.   
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-<button class="button button3">Red</button>
-<button class="button button4">Gray</button>
+<button class="button button1">Paper</button>
 <hr>
 
 
