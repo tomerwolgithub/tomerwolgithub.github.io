@@ -18,6 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 <br>
+<div class="papertitle">Something</div><br><br>
 **[Obtaining Faithful Interpretations from Compositional Neural Networks.](https://arxiv.org/abs/2005.00724)**   
 Sanjay Subramanian\*, Ben Bogin\*, Nitish Gupta\*, **Tomer Wolfson**, Sameer Singh, Jonathan Berant and Matt Gardner.   
 Association for Computational Linguistics (ACL) 2020.   
