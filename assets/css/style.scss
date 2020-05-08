@@ -31,58 +31,59 @@ img {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
-  padding: 16px 32px;
+  padding: 3px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-size: 12px;
+  margin: 1px 1px;
   transition-duration: 0.4s;
   cursor: pointer;
+  border-radius: 12px;
+  font-weight: bold;
 }
 
-.button1 { /* blue */
+.button1:hover { /* blue */
   background-color: white; 
   color: black; 
   border: 2px solid #02a4e0;
 }
 
-.button1:hover {
+.button1 {
   background-color: #02a4e0;
   color: white;
 }
 
-.button2 { /* red */
+.button2:hover { /* red */
   background-color: white; 
   color: black; 
   border: 2px solid #F82B60;
 }
 
-.button2:hover {
+.button2 {
   background-color: #F82B60;
   color: white;
 }
 
-.button3 {  /* yellow */
+.button3:hover {  
   background-color: white; 
   color: black; 
   border: 2px solid #FCB401;
 }
 
-.button3:hover {
+.button3 {
   background-color: #FCB401;
   color: white;
 }
 
-.button4 { /* green */
+.button4:hover { 
   background-color: white;
   color: black;
   border: 2px solid #00d748;
 }
 
-.button4:hover {
+.button4 {
   background-color: #00d748;
   color: white;
 }
-
 
