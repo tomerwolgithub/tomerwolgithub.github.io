@@ -12,20 +12,15 @@
     <![endif]-->
   </head>
   <body>
-    
-    <div class="navbar">
-      <a class="active" href="https://allenai.github.io/Break/">Break</a>
-      <a href="https://allenai.github.io/Break/blogpost.html">Blog</a>
-      <a href="https://arxiv.org/abs/2001.11770v1">Paper</a>
-      <a href="https://allenai.github.io/Break/explore.html">Explore</a>
-    </div>
+
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">Tomer Wolfson</a></h1>
-        
+               
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        <h1>Tomer Wolfson</h1>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
