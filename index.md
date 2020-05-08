@@ -25,8 +25,9 @@ Association for Computational Linguistics (ACL) 2020.
 [<button class="button button2">Code</button>](https://github.com/allenai/faithful-nmn)
 <br><br>
 **[Break It Down: A Question Understanding Benchmark.]**(https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00309)    
-Authors.   
-Venue.   
+**Tomer Wolfson**, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch and
+Jonathan Berant.   
+Volume 8 of the Transactions of the Association for Computational Linguistics (TACL 2020), pages 183-198.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2001.11770.pdf)
 [<button class="button button2">Code</button>](https://github.com/allenai/Break)
 [<button class="button button3">Website</button>](https://allenai.github.io/Break/)
