@@ -32,13 +32,14 @@ Authors.
 Venue.   
 <button class="button button1">Paper</button>
 <button class="button button2">Code</button>
-<button class="button button3">Blogpost</button>
-<button class="button button4">Website</button>
+<button class="button button3">Website</button>
+<button class="button button4">Blogpost</button>
 <br><br>
 **Paper name.**   
 Authors.   
 Venue.   
 <button class="button button1">Paper</button>
+<button class="button button5">Technical Report</button>
 <hr>
 
 
