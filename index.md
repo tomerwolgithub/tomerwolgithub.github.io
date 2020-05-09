@@ -8,7 +8,7 @@ I am a PhD student at the Blavatnik School of Computer Science of Tel Aviv Unive
 
 My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions over a multitude of domains, and to endow these systems the ability to justify and explain their results.  
 
-Prior to my PhD, I recived my B.Sc and M.Sc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch.
+Prior to my PhD, I received my B.Sc and M.Sc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch.
 
 <hr>
 
