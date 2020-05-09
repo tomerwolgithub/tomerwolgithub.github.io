@@ -38,7 +38,9 @@ IEEE 35th International Conference on Data Engineering (ICDE) 2019, pages 1570-1
 <hr>
 
 # Teaching
-
+**Tel Aviv University.**
+*Teaching Assistant (2018 - Present).*  
+Teaching recitations of the "Web Data Management" course under Prof. Daniel Deutch. Developed slides and projects on natural language processing, information extraction and ontology building.
 
 ## Header 2
 
