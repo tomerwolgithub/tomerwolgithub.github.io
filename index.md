@@ -41,13 +41,3 @@ IEEE 35th International Conference on Data Engineering (ICDE) 2019, pages 1570-1
 **Tel Aviv University.**  
 *Teaching Assistant (2018 - Present).*  
 Teaching recitations of the "Web Data Management" course under Prof. Daniel Deutch. Developed slides and projects on natural language processing, information extraction and ontology building.
-
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
