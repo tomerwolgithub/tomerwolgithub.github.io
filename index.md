@@ -4,6 +4,8 @@ layout: default
 
 # About
 
+I am a Ph.D. student at the Blavatnik School of Computer Science of Tel Aviv University. My Ph.D. supervisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
