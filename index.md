@@ -4,15 +4,11 @@ layout: default
 
 # About
 
-I am a Ph.D. student at the Blavatnik School of Computer Science of Tel Aviv University. My Ph.D. supervisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/).
+I am a PhD student at the Blavatnik School of Computer Science of Tel Aviv University. My PhD advisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). I am also serving a a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).   
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions over a multitude of domains, and to endow these systems the ability to justify and explain their results.  
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Prior to my PhD I recived my B.Sc and M.Sc in computer science at Tel Aviv University.
 
 <hr>
 
