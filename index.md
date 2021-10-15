@@ -22,7 +22,7 @@ Accepted to Transactions of the Association for Computational Linguistics (TACL)
 <br><br>
 **[Obtaining Faithful Interpretations from Compositional Neural Networks.](https://arxiv.org/abs/2005.00724)**   
 Sanjay Subramanian\*, Ben Bogin\*, Nitish Gupta\*, **Tomer Wolfson**, Sameer Singh, Jonathan Berant and Matt Gardner.   
-Association for Computational Linguistics (ACL) 2020.   
+Association for Computational Linguistics (ACL) 2020, pages 5594-5608.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2005.00724.pdf)
 [<button class="button button2">Code</button>](https://github.com/allenai/faithful-nmn)
 <br><br>
