@@ -14,9 +14,15 @@ Prior to my PhD, I received my B.Sc and M.Sc in computer science at Tel Aviv Uni
 
 # Publications
 
+**[Weakly Supervised Text-to-SQL Parsing through Question Decomposition.](https://arxiv.org/abs/2107.13935)**   
+**Tomer Wolfson**, Daniel Deutch and Jonathan Berant.   
+Accepted to Findings of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022.   
+[<button class="button button1">Paper</button>](https://openreview.net/references/pdf?id=hvevDwiIYc)
+[<button class="button button2">Code</button>](https://github.com/tomerwolgithub/question-decomposition-to-sql)
+<br><br>
 **[Break, Perturb, Build: Automatic Perturbation of Reasoning Paths through Question Decomposition.](https://arxiv.org/abs/2107.13935)**   
 Mor Geva, **Tomer Wolfson**, and Jonathan Berant.   
-Accepted to Transactions of the Association for Computational Linguistics (TACL) 2021.   
+Volume 10 of the Transactions of the Association for Computational Linguistics (TACL) 2022, pages 111-126
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2107.13935.pdf)
 [<button class="button button2">Code</button>](https://github.com/mega002/qdmr-based-question-generation)
 <br><br>
