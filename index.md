@@ -14,10 +14,10 @@ Prior to my PhD, I received my B.Sc and M.Sc in computer science at Tel Aviv Uni
 
 # Publications
 
-**[Weakly Supervised Text-to-SQL Parsing through Question Decomposition.](https://openreview.net/references/pdf?id=hvevDwiIYc)**   
+**[Weakly Supervised Text-to-SQL Parsing through Question Decomposition.](https://arxiv.org/abs/2112.06311)**   
 **Tomer Wolfson**, Daniel Deutch and Jonathan Berant.   
 Accepted to Findings of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022.   
-[<button class="button button1">Paper</button>](https://openreview.net/references/pdf?id=hvevDwiIYc)
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2112.06311.pdf)
 [<button class="button button2">Code</button>](https://github.com/tomerwolgithub/question-decomposition-to-sql)
 <br><br>
 **[Break, Perturb, Build: Automatic Perturbation of Reasoning Paths through Question Decomposition.](https://arxiv.org/abs/2107.13935)**   
@@ -32,7 +32,7 @@ Association for Computational Linguistics (ACL) 2020, pages 5594-5608.
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2005.00724.pdf)
 [<button class="button button2">Code</button>](https://github.com/allenai/faithful-nmn)
 <br><br>
-**[Break It Down: A Question Understanding Benchmark.](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00309)**    
+**[Break It Down: A Question Understanding Benchmark.](https://aclanthology.org/2020.tacl-1.13/)**    
 **Tomer Wolfson**, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch and
 Jonathan Berant.   
 Volume 8 of the Transactions of the Association for Computational Linguistics (TACL) 2020, pages 183-198.   
