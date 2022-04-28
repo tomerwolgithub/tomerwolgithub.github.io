@@ -22,7 +22,7 @@ Accepted to Findings of the North American Chapter of the Association for Comput
 <br><br>
 **[Break, Perturb, Build: Automatic Perturbation of Reasoning Paths through Question Decomposition.](https://arxiv.org/abs/2107.13935)**   
 Mor Geva, **Tomer Wolfson**, and Jonathan Berant.   
-Volume 10 of the Transactions of the Association for Computational Linguistics (TACL) 2022, pages 111-126.
+Volume 10 of the Transactions of the Association for Computational Linguistics (TACL) 2022, pages 111-126.    
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2107.13935.pdf)
 [<button class="button button2">Code</button>](https://github.com/mega002/qdmr-based-question-generation)
 <br><br>
