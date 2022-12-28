@@ -51,7 +51,7 @@ IEEE 35th International Conference on Data Engineering (ICDE) 2019, pages 1570-1
 
 # Teaching
 **Tel Aviv University.**  
-*Lecturer (2021 - Present).*  
+*Lecturer (2021 - 2022).*  
 Lecturer of the course "Web Data Management & Information Retrieval". Developed slides and class projects on natural language processing, information retrieval, information extraction and ontology building.
 
 *Teaching Assistant (2018 - 2020).*  
