@@ -16,7 +16,7 @@ Prior to my PhD, I received my B.Sc and M.Sc in computer science at Tel Aviv Uni
 
 **[Weakly Supervised Text-to-SQL Parsing through Question Decomposition.](https://arxiv.org/abs/2112.06311)**   
 **Tomer Wolfson**, Daniel Deutch and Jonathan Berant.   
-Findings of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022, pages 2528–2542.   
+Findings of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022, pages 2528-2542.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2112.06311.pdf)
 [<button class="button button2">Code</button>](https://github.com/tomerwolgithub/question-decomposition-to-sql)
 <br><br>
