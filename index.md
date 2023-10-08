@@ -14,6 +14,13 @@ Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv Unive
 
 # Publications
 
+**[Answering Questions by Meta-Reasoning over Multiple Chains of Thought.](https://arxiv.org/abs/2304.13007)**   
+Ori Yoran*, **Tomer Wolfson***, Ben Bogin, Uri Katz, Daniel Deutch and Jonathan Berant.   
+Empirical Methods in Natural Language Processing (ENMLP) 2023, in press.   
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2304.13007.pdf)
+[<button class="button button2">Code</button>](https://github.com/oriyor/reasoning-on-cots)
+<br><br>
+
 **[Weakly Supervised Text-to-SQL Parsing through Question Decomposition.](https://arxiv.org/abs/2112.06311)**   
 **Tomer Wolfson**, Daniel Deutch and Jonathan Berant.   
 Findings of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022, pages 2528-2542.   
