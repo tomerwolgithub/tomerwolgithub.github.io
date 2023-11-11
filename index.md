@@ -23,7 +23,7 @@ Empirical Methods in Natural Language Processing (EMNLP) 2023, in press.
 
 **[QAMPARI: An Open-domain Question Answering Benchmark for Questions with Many Answers from Multiple Paragraphs.](https://arxiv.org/abs/2205.12665)**   
 Samuel Joseph Amouyal, **Tomer Wolfson**, Ohad Rubin, Ori Yoran, Jonathan Herzig and Jonathan Berant.
-Third Workshop on Generation, Evaluation \& Metrics (GEM), at EMNLP 2023, in press.   
+Third Workshop on Generation, Evaluation & Metrics (GEM), at EMNLP 2023, in press.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2205.12665.pdf)
 [<button class="button button2">Code</button>](https://github.com/samsam3232/qampari)
 [<button class="button button3">Website</button>](https://samsam3232.github.io/qampari/)
