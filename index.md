@@ -14,6 +14,13 @@ Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv Unive
 
 # Publications
 
+**[Making Retrieval-Augmented Language Models Robust to Irrelevant Context.](https://arxiv.org/abs/2310.01558)**   
+Ori Yoran, **Tomer Wolfson**, Ori Ram and Jonathan Berant.   
+International Conference on Learning Representations (ICLR) 2024, in press.   
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2310.01558.pdf)
+[<button class="button button2">Code</button>](https://github.com/oriyor/ret-robust)
+<br><br>
+
 **[Answering Questions by Meta-Reasoning over Multiple Chains of Thought.](https://arxiv.org/abs/2304.13007)**   
 Ori Yoran\*, **Tomer Wolfson**\*, Ben Bogin, Uri Katz, Daniel Deutch and Jonathan Berant.   
 Empirical Methods in Natural Language Processing (EMNLP) 2023, pages 5942–5966.   
