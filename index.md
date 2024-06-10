@@ -4,15 +4,22 @@ layout: default
 
 # About
 
-I am a PhD student at the Blavatnik School of Computer Science of Tel Aviv University. My PhD advisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). I am also serving as a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).   
+I am a PhD student at the Blavatnik School of Computer Science of Tel Aviv University. My PhD advisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/).
 
 My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions over a multitude of domains, and to endow them with an ability to justify and explain their results.  
 
-Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch.
+Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch. During my PhD, in 2019-2024, I served as a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).
 
 <hr>
 
 # Publications
+
+**[LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration.](https://arxiv.org/abs/2310.01558)**   
+Tavor Lipman, Tova Milo, Amit Somech, **Tomer Wolfson** and Oz Zafar.   
+Preprint, under submission.   
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2310.01558.pdf)
+[<button class="button button2">Code</button>](https://github.com/oriyor/ret-robust)
+<br><br>
 
 **[Making Retrieval-Augmented Language Models Robust to Irrelevant Context.](https://arxiv.org/abs/2310.01558)**   
 Ori Yoran, **Tomer Wolfson**, Ori Ram and Jonathan Berant.   
