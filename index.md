@@ -77,7 +77,7 @@ Volume 8 of the Transactions of the Association for Computational Linguistics (T
 [<button class="button button4">Blogpost</button>](https://medium.com/ai2-blog/break-mapping-natural-language-questions-to-their-meaning-representation-31bb753701d6)
 <br><br>
 **[Explaining Queries over Web Tables to Non-Experts.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731342&tag=1)**   
-Jonathan Berant, Daniel Deutch, Amir Globerson, Tova Milo, <u>Tomer Wolfson\*</u>.   
+Jonathan Berant, Daniel Deutch, Amir Globerson, Tova Milo, <u>Tomer Wolfson</u>*.   
 IEEE 35th International Conference on Data Engineering (ICDE) 2019, pages 1570-1573.   
 [<button class="button button1">Paper</button>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731342&tag=1)
 [<button class="button button5">Technical Report</button>](https://arxiv.org/abs/1808.04614)
