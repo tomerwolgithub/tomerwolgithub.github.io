@@ -14,10 +14,17 @@ Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv Unive
 
 # Publications
 
-**[LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration.](https://arxiv.org/abs/2406.05107)**   
+**[Generating Tables from the Parametric Knowledge of Language Models.](https://arxiv.org/abs/2406.10922)**   
 Tavor Lipman, Tova Milo, Amit Somech, **Tomer Wolfson** and Oz Zafar.   
 Preprint, under submission.   
-[<button class="button button1">Paper</button>](https://arxiv.org/abs/2406.05107)
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.10922)
+<br><br>
+
+**[LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration.](https://arxiv.org/abs/2406.05107)**   
+Yevgeni Berkovitch, Oren Glickman, Amit Somech and **Tomer Wolfson**.   
+Preprint, under submission.   
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.05107)
+[<button class="button button2">Code</button>](https://github.com/analysis-bots/WikiTabGen)
 <br><br>
 
 **[Making Retrieval-Augmented Language Models Robust to Irrelevant Context.](https://arxiv.org/abs/2310.01558)**   
