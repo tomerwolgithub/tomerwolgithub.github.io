@@ -15,6 +15,7 @@ Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv Unive
 # Publications
 
 **[Generating Tables from the Parametric Knowledge of Language Models.](https://arxiv.org/abs/2406.10922)** 
+
 Yevgeni Berkovitch, Oren Glickman, Amit Somech, **Tomer Wolfson**.   
 Preprint, under submission.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.10922)
