@@ -4,11 +4,12 @@ layout: default
 
 # About
 
-I am a PhD student at the Blavatnik School of Computer Science of Tel Aviv University. My PhD advisors are [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/).
+I am a Postdoctoral Research Fellow at the University of Pennsylvania and a member of the Cognitive Computation Group led by [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
 
-My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions over a multitude of domains, and to endow them with an ability to justify and explain their results.  
+My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions which involve reasoning over hundreds of documents in order to piece together an answer.
 
-Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch. During my PhD, in 2019-2024, I served as a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).
+I was a PhD student at the Blavatnik School of Computer Science of Tel Aviv University, advised by [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). During my PhD, in 2019-2024, I served as a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).
+Prior to my PhD, I received my BSc and MSc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch.
 
 <hr>
 
