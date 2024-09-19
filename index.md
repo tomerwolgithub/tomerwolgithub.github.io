@@ -9,7 +9,7 @@ I am a Postdoctoral Research Fellow at the University of Pennsylvania and a memb
 My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions which involve reasoning over hundreds of documents in order to piece together an answer.
 
 I was a PhD student at the Blavatnik School of Computer Science of Tel Aviv University, advised by [Prof. Daniel Deutch](https://www.cs.tau.ac.il/~danielde/) and [Prof. Jonathan Berant](http://www.cs.tau.ac.il/~joberant/). During my PhD, in 2019-2024, I served as a research intern at the [Allen Institute for AI](https://allenai.org/ai2-israel/).
-I received my BSc and MSc in computer science at Tel Aviv University, under the supervision of Prof. Daniel Deutch.
+I received my BSc and MSc in computer science at Tel Aviv University.
 
 <hr>
 
