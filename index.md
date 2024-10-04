@@ -24,7 +24,7 @@ Preprint, under submission.
 
 **[LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration.](https://arxiv.org/abs/2406.05107)**   
 Tavor Lipman, Tova Milo, Amit Somech, <u>Tomer Wolfson</u>, Oz Zafar.   
-International Conference on Extending Database Technology (EDBT) 2025, in press.
+International Conference on Extending Database Technology (EDBT) 2025, in press.<br>
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.05107)
 <br><br>
 
