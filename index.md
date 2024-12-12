@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I am a Postdoctoral Research Fellow at the University of Pennsylvania and a member of the Cognitive Computation Group led by [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/).
+I am a Postdoctoral Research Fellow at the University of Pennsylvania and a member of the Cognitive Computation Group led by [Prof. Dan Roth](https://www.seas.upenn.edu/~danroth/). I am also fortunate to be a [CHE Postdoctoral Fellow](https://che.org.il/en/) for AI and Data Science.
 
 My area of research lies at the intersection of Data Management and Natural Language Processing. I am interested in developing algorithms that are capable of understanding complex questions which involve reasoning over hundreds of documents in order to piece together an answer.
 
