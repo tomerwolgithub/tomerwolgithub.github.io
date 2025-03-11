@@ -17,7 +17,7 @@ I received my BSc and MSc in computer science at Tel Aviv University.
 
 **[Generating Tables from the Parametric Knowledge of Language Models.](https://arxiv.org/abs/2406.10922)**   
 Yevgeni Berkovitch, Oren Glickman, Amit Somech, <u>Tomer Wolfson</u>.   
-Preprint, under submission.   
+The Fourth Workshop on Knowledge-Augmented NLP (KnowledgeNLP), at NAACL 2025, in press.
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.10922)
 [<button class="button button2">Code</button>](https://github.com/analysis-bots/WikiTabGen)
 <br><br>
@@ -44,7 +44,7 @@ Empirical Methods in Natural Language Processing (EMNLP) 2023, pages 5942–5966
 
 **[QAMPARI: An Open-domain Question Answering Benchmark for Questions with Many Answers from Multiple Paragraphs.](https://arxiv.org/abs/2205.12665)**   
 Samuel Joseph Amouyal, <u>Tomer Wolfson</u>, Ohad Rubin, Ori Yoran, Jonathan Herzig, Jonathan Berant.
-Third Workshop on Generation, Evaluation & Metrics (GEM), at EMNLP 2023, in press.   
+Third Workshop on Generation, Evaluation & Metrics (GEM), at EMNLP 2023, pages 97–110.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2205.12665.pdf)
 [<button class="button button2">Code</button>](https://github.com/samsam3232/qampari)
 [<button class="button button3">Website</button>](https://samsam3232.github.io/qampari/)
