@@ -17,7 +17,7 @@ I received my BSc and MSc in computer science at Tel Aviv University.
 
 **[Generating Tables from the Parametric Knowledge of Language Models.](https://arxiv.org/abs/2406.10922)**   
 Yevgeni Berkovitch, Oren Glickman, Amit Somech, <u>Tomer Wolfson</u>.   
-The Fourth Workshop on Knowledge-Augmented NLP (KnowledgeNLP), at NAACL 2025, in press.
+The Fourth Workshop on Knowledge-Augmented NLP (KnowledgeNLP), at NAACL 2025, in press.<br>
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.10922)
 [<button class="button button2">Code</button>](https://github.com/analysis-bots/WikiTabGen)
 <br><br>
