@@ -15,22 +15,29 @@ I received my BSc and MSc in computer science at Tel Aviv University.
 
 # Publications
 
+**[EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline.](https://arxiv.org/abs/2504.03598)**   
+Peter Baile Chen, <u>Tomer Wolfson</u>, Michael Cafarella, Dan Roth.   
+The Second Conference on Language Modeling (COLM) 2025. In press.<br>
+[<button class="button button1">Paper</button>](https://arxiv.org/abs/2504.03598)
+[<button class="button button2">Code</button>](https://peterbaile.github.io/enrichindex/)
+<br><br>
+
 **[Generating Tables from the Parametric Knowledge of Language Models.](https://arxiv.org/abs/2406.10922)**   
 Yevgeni Berkovitch, Oren Glickman, Amit Somech, <u>Tomer Wolfson</u>.   
-The Fourth Workshop on Knowledge-Augmented NLP (KnowledgeNLP), at NAACL 2025, in press.<br>
+The Fourth Workshop on Knowledge-Augmented NLP (KnowledgeNLP), at NAACL 2025, pages 50–65.<br>
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.10922)
 [<button class="button button2">Code</button>](https://github.com/analysis-bots/WikiTabGen)
 <br><br>
 
 **[LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration.](https://arxiv.org/abs/2406.05107)**   
 Tavor Lipman, Tova Milo, Amit Somech, <u>Tomer Wolfson</u>, Oz Zafar.   
-International Conference on Extending Database Technology (EDBT) 2025, in press.<br>
+International Conference on Extending Database Technology (EDBT) 2025, pages 270–283<br>
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2406.05107)
 <br><br>
 
 **[Making Retrieval-Augmented Language Models Robust to Irrelevant Context.](https://arxiv.org/abs/2310.01558)**   
 Ori Yoran, <u>Tomer Wolfson</u>, Ori Ram, Jonathan Berant.   
-International Conference on Learning Representations (ICLR) 2024, in press.   
+International Conference on Learning Representations (ICLR) 2024.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2310.01558.pdf)
 [<button class="button button2">Code</button>](https://github.com/oriyor/ret-robust)
 <br><br>
