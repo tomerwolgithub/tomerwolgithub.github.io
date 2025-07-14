@@ -65,7 +65,7 @@ Findings of the North American Chapter of the Association for Computational Ling
 <br><br>
 **[Break, Perturb, Build: Automatic Perturbation of Reasoning Paths through Question Decomposition.](https://arxiv.org/abs/2107.13935)**   
 Mor Geva, <u>Tomer Wolfson</u>, Jonathan Berant.   
-Volume 10 of the Transactions of the Association for Computational Linguistics (TACL) 2022, pages 111-126.    
+Volume 10 of the Transactions of the Association for Computational Linguistics (TACL) 2022, pages 111-126. Presented at ACL 2022.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2107.13935.pdf)
 [<button class="button button2">Code</button>](https://github.com/mega002/qdmr-based-question-generation)
 <br><br>
@@ -78,7 +78,7 @@ Association for Computational Linguistics (ACL) 2020, pages 5594-5608.
 **[Break It Down: A Question Understanding Benchmark.](https://aclanthology.org/2020.tacl-1.13/)**    
 <u>Tomer Wolfson</u>, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch,
 Jonathan Berant.   
-Volume 8 of the Transactions of the Association for Computational Linguistics (TACL) 2020, pages 183-198.   
+Volume 8 of the Transactions of the Association for Computational Linguistics (TACL) 2020, pages 183-198. Presented at ACL 2020.   
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2001.11770.pdf)
 [<button class="button button2">Code</button>](https://github.com/allenai/Break)
 [<button class="button button3">Website</button>](https://allenai.github.io/Break/)
