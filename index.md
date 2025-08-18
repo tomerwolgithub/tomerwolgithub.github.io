@@ -15,6 +15,15 @@ I received my BSc and MSc in computer science at Tel Aviv University.
 
 # Publications
 
+**[MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents.](https://arxiv.org/abs/2508.11133)**    
+<u>Tomer Wolfson</u>, Harsh Trivedi, Mor Geva, Yoav Goldberg, Dan Roth, Tushar Khot, Ashish Sabharwal, Reut Tsarfaty.
+Transactions of the Association for Computational Linguistics (TACL) 2025. Accepted for publication.<br>   
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2508.11133)
+[<button class="button button2">Code</button>](https://github.com/tomerwolgithub/monaco)
+[<button class="button button3">Website</button>](https://tomerwolgithub.github.io/monaco/)
+[<button class="button button4">Blogpost</button>](http://allenai.org/blog/monaco)
+<br><br>
+
 **[EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline.](https://arxiv.org/abs/2504.03598)**   
 Peter Baile Chen, <u>Tomer Wolfson</u>, Michael Cafarella, Dan Roth.   
 The Second Conference on Language Modeling (COLM) 2025. In press.<br>
