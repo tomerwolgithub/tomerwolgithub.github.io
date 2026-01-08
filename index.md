@@ -17,7 +17,7 @@ I received my BSc and MSc in computer science at Tel Aviv University.
 
 **[MoNaCo: More Natural and Complex Questions for Reasoning Across Dozens of Documents.](https://arxiv.org/abs/2508.11133)**    
 <u>Tomer Wolfson</u>, Harsh Trivedi, Mor Geva, Yoav Goldberg, Dan Roth, Tushar Khot, Ashish Sabharwal, Reut Tsarfaty.   
-Volume 14 of the Transactions of the Association for Computational Linguistics (TACL) 2026, pages 23–46. <i>To be presented at Presented at ACL 2026</i>.<br>
+Volume 14 of the Transactions of the Association for Computational Linguistics (TACL) 2026, pages 23–46. <i>To be presented at ACL 2026</i>.<br>
 [<button class="button button1">Paper</button>](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.64/134745/MoNaCo-More-Natural-and-Complex-Questions-for)
 [<button class="button button2">Code</button>](https://github.com/tomerwolgithub/monaco)
 [<button class="button button3">Website</button>](https://tomerwolgithub.github.io/monaco/)
